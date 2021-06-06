@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section01", "Section01\Section01.csproj", "{E633BCA5-9699-4ADF-B6DA-41748404914C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section05_TextRPG2", "Section05_TextRPG2\Section05_TextRPG2.csproj", "{42D95DCA-2E00-42C5-9A0E-D0618CCBD93A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E633BCA5-9699-4ADF-B6DA-41748404914C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{E633BCA5-9699-4ADF-B6DA-41748404914C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{E633BCA5-9699-4ADF-B6DA-41748404914C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{E633BCA5-9699-4ADF-B6DA-41748404914C}.Release|anycpu.Build.0 = Release|anycpu
+		{42D95DCA-2E00-42C5-9A0E-D0618CCBD93A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{42D95DCA-2E00-42C5-9A0E-D0618CCBD93A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{42D95DCA-2E00-42C5-9A0E-D0618CCBD93A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{42D95DCA-2E00-42C5-9A0E-D0618CCBD93A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

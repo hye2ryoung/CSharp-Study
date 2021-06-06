@@ -1,0 +1,5 @@
+/Users/kimhyeryoung/Projects/CSharp_Study/Section05_TextRPG2/bin/Debug/Section05_TextRPG2.exe
+/Users/kimhyeryoung/Projects/CSharp_Study/Section05_TextRPG2/bin/Debug/Section05_TextRPG2.pdb
+/Users/kimhyeryoung/Projects/CSharp_Study/Section05_TextRPG2/obj/anycpu/Debug/Section05_TextRPG2.csproj.CoreCompileInputs.cache
+/Users/kimhyeryoung/Projects/CSharp_Study/Section05_TextRPG2/obj/anycpu/Debug/Section05_TextRPG2.exe
+/Users/kimhyeryoung/Projects/CSharp_Study/Section05_TextRPG2/obj/anycpu/Debug/Section05_TextRPG2.pdb
