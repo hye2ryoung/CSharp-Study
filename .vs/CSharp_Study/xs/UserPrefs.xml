@@ -1,24 +1,18 @@
 ﻿<Properties StartupConfiguration="{E633BCA5-9699-4ADF-B6DA-41748404914C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Section05_TextRPG2/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Section01/Operation.cs">
     <Files>
-      <File FileName="Section01/Program.cs" Line="1" Column="1" />
-      <File FileName="Section05_TextRPG2/Program.cs" Line="19" Column="1" />
-      <File FileName="Section05_TextRPG2/Creature.cs" Line="2" Column="29" />
-      <File FileName="Section05_TextRPG2/Game.cs" Line="2" Column="29" />
-      <File FileName="Section05_TextRPG2/Monster.cs" Line="2" Column="29" />
-      <File FileName="Section05_TextRPG2/Player.cs" Line="2" Column="29" />
+      <File FileName="Section01/Program.cs" Line="29" Column="37" />
+      <File FileName="Section01/Casting.cs" Line="25" Column="13" />
+      <File FileName="Section01/Operation.cs" Line="8" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharp_Study" expanded="True">
             <Node name="Section01" expanded="True">
-              <Node name="Properties" expanded="True" />
+              <Node name="Operation.cs" selected="True" />
             </Node>
-            <Node name="Section05_TextRPG2" expanded="True">
-              <Node name="Properties" expanded="True" />
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="Section05_TextRPG2" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -33,7 +27,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Section01 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Section01 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
