@@ -1,0 +1,5 @@
+/Users/kimhyeryoung/Projects/CSharp_Study/Section02_Practice3/bin/Debug/Section02_Practice3.exe
+/Users/kimhyeryoung/Projects/CSharp_Study/Section02_Practice3/bin/Debug/Section02_Practice3.pdb
+/Users/kimhyeryoung/Projects/CSharp_Study/Section02_Practice3/obj/anycpu/Debug/Section02_Practice3.csproj.CoreCompileInputs.cache
+/Users/kimhyeryoung/Projects/CSharp_Study/Section02_Practice3/obj/anycpu/Debug/Section02_Practice3.exe
+/Users/kimhyeryoung/Projects/CSharp_Study/Section02_Practice3/obj/anycpu/Debug/Section02_Practice3.pdb

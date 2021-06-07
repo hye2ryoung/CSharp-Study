@@ -1,18 +1,34 @@
 ﻿<Properties StartupConfiguration="{E633BCA5-9699-4ADF-B6DA-41748404914C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Section01/Operation.cs">
+  <MonoDevelop.Ide.ItemProperties.Section03__TextRPG FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Section05_TextRPG2/Creature.cs">
     <Files>
-      <File FileName="Section01/Program.cs" Line="29" Column="37" />
+      <File FileName="Section01/Program.cs" Line="9" Column="21" />
       <File FileName="Section01/Casting.cs" Line="25" Column="13" />
-      <File FileName="Section01/Operation.cs" Line="8" Column="1" />
+      <File FileName="Section01/Operation.cs" Line="74" Column="1" />
+      <File FileName="Section02/Program.cs" Line="9" Column="50" />
+      <File FileName="Section02/Switch.cs" Line="12" Column="24" />
+      <File FileName="Section02/RPS_Game.cs" Line="37" Column="57" />
+      <File FileName="Section02/While_For.cs" Line="55" Column="6" />
+      <File FileName="Section02/Copy_Ref.cs" Line="60" Column="45" />
+      <File FileName="Section02/OverLoading.cs" Line="20" Column="10" />
+      <File FileName="Section02_Practice1/Program.cs" Line="11" Column="14" />
+      <File FileName="Section02_Practice2/Program.cs" Line="14" Column="50" />
+      <File FileName="Section02_Practice3/Program.cs" Line="20" Column="34" />
+      <File FileName="Section03_TextRPG/Program.cs" Line="24" Column="47" />
+      <File FileName="Section05_TextRPG2/Program.cs" Line="1" Column="1" />
+      <File FileName="Section05_TextRPG2/Game.cs" Line="37" Column="13" />
+      <File FileName="Section05_TextRPG2/Monster.cs" Line="1" Column="1" />
+      <File FileName="Section05_TextRPG2/Player.cs" Line="1" Column="1" />
+      <File FileName="Section05_TextRPG2/Creature.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharp_Study" expanded="True">
-            <Node name="Section01" expanded="True">
-              <Node name="Operation.cs" selected="True" />
+            <Node name="Section03_TextRPG" expanded="True" />
+            <Node name="Section05_TextRPG2" expanded="True">
+              <Node name="Creature.cs" selected="True" />
             </Node>
-            <Node name="Section05_TextRPG2" expanded="True" />
           </Node>
         </State>
       </Pad>
