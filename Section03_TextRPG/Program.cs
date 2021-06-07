@@ -2,6 +2,8 @@
 
 namespace Section03_TextRPG
 {
+    //TextRPG
+
     class Program
     {
         enum ClassType
