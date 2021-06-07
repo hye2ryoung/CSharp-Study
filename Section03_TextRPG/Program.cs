@@ -2,7 +2,7 @@
 
 namespace Section03_TextRPG
 {
-    //TextRPG
+    // TextRPG
 
     class Program
     {
