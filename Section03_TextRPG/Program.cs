@@ -87,7 +87,7 @@ namespace Section03_TextRPG
 
         static void CreateRandomMonster(out Monster monster)
         {
-            //랜덤으로 1~3 몬스터 중 하나를 리스폰
+            // 랜덤으로 1~3 몬스터 중 하나를 리스폰
             Random rand = new Random();
             int randMonster = rand.Next(1, 4);
             switch (randMonster)
