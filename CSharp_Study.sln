@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section02_Practice3", "Sect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section03_TextRPG", "Section03_TextRPG\Section03_TextRPG.csproj", "{8458A6DE-B4AF-45AE-A03A-687D82D0E354}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section06", "Section06\Section06.csproj", "{052B204B-11D8-4433-87AD-94EA90E3AD67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -49,5 +51,9 @@ Global
 		{8458A6DE-B4AF-45AE-A03A-687D82D0E354}.Debug|anycpu.Build.0 = Debug|anycpu
 		{8458A6DE-B4AF-45AE-A03A-687D82D0E354}.Release|anycpu.ActiveCfg = Release|anycpu
 		{8458A6DE-B4AF-45AE-A03A-687D82D0E354}.Release|anycpu.Build.0 = Release|anycpu
+		{052B204B-11D8-4433-87AD-94EA90E3AD67}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{052B204B-11D8-4433-87AD-94EA90E3AD67}.Debug|anycpu.Build.0 = Debug|anycpu
+		{052B204B-11D8-4433-87AD-94EA90E3AD67}.Release|anycpu.ActiveCfg = Release|anycpu
+		{052B204B-11D8-4433-87AD-94EA90E3AD67}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal

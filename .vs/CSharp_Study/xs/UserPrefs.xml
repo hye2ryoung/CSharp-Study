@@ -1,6 +1,5 @@
 ﻿<Properties StartupConfiguration="{E633BCA5-9699-4ADF-B6DA-41748404914C}|Default">
-  <MonoDevelop.Ide.ItemProperties.Section03__TextRPG FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Section05_TextRPG2/Creature.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Section06/MultiArray.cs">
     <Files>
       <File FileName="Section01/Program.cs" Line="9" Column="21" />
       <File FileName="Section01/Casting.cs" Line="25" Column="13" />
@@ -14,20 +13,21 @@
       <File FileName="Section02_Practice1/Program.cs" Line="11" Column="14" />
       <File FileName="Section02_Practice2/Program.cs" Line="14" Column="50" />
       <File FileName="Section02_Practice3/Program.cs" Line="20" Column="34" />
-      <File FileName="Section03_TextRPG/Program.cs" Line="24" Column="47" />
-      <File FileName="Section05_TextRPG2/Program.cs" Line="1" Column="1" />
-      <File FileName="Section05_TextRPG2/Game.cs" Line="37" Column="13" />
+      <File FileName="Section03_TextRPG/Program.cs" Line="90" Column="16" />
+      <File FileName="Section05_TextRPG2/Program.cs" Line="6" Column="1" />
+      <File FileName="Section05_TextRPG2/Game.cs" Line="21" Column="26" />
       <File FileName="Section05_TextRPG2/Monster.cs" Line="1" Column="1" />
       <File FileName="Section05_TextRPG2/Player.cs" Line="1" Column="1" />
       <File FileName="Section05_TextRPG2/Creature.cs" Line="1" Column="1" />
+      <File FileName="Section06/Program.cs" Line="101" Column="30" />
+      <File FileName="Section06/MultiArray.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharp_Study" expanded="True">
-            <Node name="Section03_TextRPG" expanded="True" />
-            <Node name="Section05_TextRPG2" expanded="True">
-              <Node name="Creature.cs" selected="True" />
+            <Node name="Section06" expanded="True">
+              <Node name="MultiArray.cs" selected="True" />
             </Node>
           </Node>
         </State>
