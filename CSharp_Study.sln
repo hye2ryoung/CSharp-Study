@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section03_TextRPG", "Sectio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section06", "Section06\Section06.csproj", "{052B204B-11D8-4433-87AD-94EA90E3AD67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section07", "Section07\Section07.csproj", "{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -55,5 +57,9 @@ Global
 		{052B204B-11D8-4433-87AD-94EA90E3AD67}.Debug|anycpu.Build.0 = Debug|anycpu
 		{052B204B-11D8-4433-87AD-94EA90E3AD67}.Release|anycpu.ActiveCfg = Release|anycpu
 		{052B204B-11D8-4433-87AD-94EA90E3AD67}.Release|anycpu.Build.0 = Release|anycpu
+		{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}.Debug|anycpu.Build.0 = Debug|anycpu
+		{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}.Release|anycpu.ActiveCfg = Release|anycpu
+		{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal

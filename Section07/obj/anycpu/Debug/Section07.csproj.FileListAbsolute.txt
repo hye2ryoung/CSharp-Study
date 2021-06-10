@@ -1,0 +1,5 @@
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07/bin/Debug/Section07.exe
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07/bin/Debug/Section07.pdb
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07/obj/anycpu/Debug/Section07.csproj.CoreCompileInputs.cache
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07/obj/anycpu/Debug/Section07.exe
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07/obj/anycpu/Debug/Section07.pdb
