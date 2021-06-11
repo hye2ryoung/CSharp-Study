@@ -1,40 +1,20 @@
 ﻿<Properties StartupConfiguration="{E633BCA5-9699-4ADF-B6DA-41748404914C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Section07/Property.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Section07/Lambda.cs">
     <Files>
-      <File FileName="Section01/Program.cs" Line="9" Column="21" />
-      <File FileName="Section01/Casting.cs" Line="25" Column="13" />
-      <File FileName="Section01/Operation.cs" Line="74" Column="1" />
-      <File FileName="Section02/Program.cs" Line="9" Column="50" />
-      <File FileName="Section02/Switch.cs" Line="12" Column="24" />
-      <File FileName="Section02/RPS_Game.cs" Line="37" Column="57" />
-      <File FileName="Section02/While_For.cs" Line="55" Column="6" />
-      <File FileName="Section02/Copy_Ref.cs" Line="60" Column="45" />
-      <File FileName="Section02/OverLoading.cs" Line="20" Column="10" />
-      <File FileName="Section02_Practice1/Program.cs" Line="11" Column="14" />
-      <File FileName="Section02_Practice2/Program.cs" Line="14" Column="50" />
-      <File FileName="Section02_Practice3/Program.cs" Line="20" Column="34" />
-      <File FileName="Section03_TextRPG/Program.cs" Line="90" Column="16" />
-      <File FileName="Section05_TextRPG2/Program.cs" Line="6" Column="1" />
-      <File FileName="Section05_TextRPG2/Game.cs" Line="21" Column="26" />
-      <File FileName="Section05_TextRPG2/Monster.cs" Line="1" Column="1" />
-      <File FileName="Section05_TextRPG2/Player.cs" Line="1" Column="1" />
-      <File FileName="Section05_TextRPG2/Creature.cs" Line="1" Column="1" />
-      <File FileName="Section06/Program.cs" Line="90" Column="9" />
-      <File FileName="Section06/MultiArray.cs" Line="50" Column="2" />
-      <File FileName="Section06/List.cs" Line="14" Column="25" />
-      <File FileName="Section06/Dictionary.cs" Line="37" Column="17" />
-      <File FileName="Section07/Program.cs" Line="75" Column="1" />
-      <File FileName="Section07/Interface.cs" Line="67" Column="1" />
-      <File FileName="Section07/Property.cs" Line="43" Column="29" />
-      <File FileName="Section07/Delegate.cs" Line="6" Column="26" />
+      <File FileName="Section07/Delegate.cs" Line="46" Column="2" />
+      <File FileName="Section07_Event/Program.cs" Line="14" Column="1" />
+      <File FileName="Section07_Event/InputManager.cs" Line="15" Column="29" />
+      <File FileName="Section07/Lambda.cs" Line="4" Column="14" />
+      <File FileName="Section07/Property.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharp_Study" expanded="True">
             <Node name="Section07" expanded="True">
-              <Node name="Property.cs" selected="True" />
+              <Node name="Lambda.cs" selected="True" />
             </Node>
+            <Node name="Section07_Event" expanded="True" />
           </Node>
         </State>
       </Pad>

@@ -1,0 +1,5 @@
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07_Event/bin/Debug/Section07_Event.exe
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07_Event/bin/Debug/Section07_Event.pdb
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07_Event/obj/anycpu/Debug/Section07_Event.csproj.CoreCompileInputs.cache
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07_Event/obj/anycpu/Debug/Section07_Event.exe
+/Users/kimhyeryoung/Projects/CSharp_Study/Section07_Event/obj/anycpu/Debug/Section07_Event.pdb

@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section06", "Section06\Sect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section07", "Section07\Section07.csproj", "{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section07_Event", "Section07_Event\Section07_Event.csproj", "{992D3CFF-B2AB-40E1-BB6B-863AEEE199DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -61,5 +63,9 @@ Global
 		{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}.Debug|anycpu.Build.0 = Debug|anycpu
 		{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}.Release|anycpu.ActiveCfg = Release|anycpu
 		{8EEE915D-8EC3-476D-A2B8-0C3359247D2F}.Release|anycpu.Build.0 = Release|anycpu
+		{992D3CFF-B2AB-40E1-BB6B-863AEEE199DE}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{992D3CFF-B2AB-40E1-BB6B-863AEEE199DE}.Debug|anycpu.Build.0 = Debug|anycpu
+		{992D3CFF-B2AB-40E1-BB6B-863AEEE199DE}.Release|anycpu.ActiveCfg = Release|anycpu
+		{992D3CFF-B2AB-40E1-BB6B-863AEEE199DE}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 EndGlobal

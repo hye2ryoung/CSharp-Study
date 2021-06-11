@@ -29,7 +29,7 @@ namespace Section07
             return 0;
         }
 
-        //public Delegate()
+        /*
         public static void Main(string[] args)
         {
             // delegate (대리자)
@@ -37,8 +37,10 @@ namespace Section07
             clicked += TestDelegate2; // 이어서 실행하도록 연결 
 
             ButtonPressed(clicked); // hello delegate hello delegate 2
-            ButtonPressed(TestDelegate/* */); // hello delegate
+            ButtonPressed(TestDelegate); // hello delegate
 
         }
+        */
+    
     }
 }
