@@ -56,8 +56,8 @@ namespace Section07
         }
         */
 
-        //public Lambda()
-        public static void Main(string[] args)
+        public Lambda()
+        //public static void Main(string[] args)
         {
             _items.Add(new Item() { ItemType = ItemType.Weapon, Rarity = Rarity.Normal });
             _items.Add(new Item() { ItemType = ItemType.Armor, Rarity = Rarity.Uncommon });
@@ -67,7 +67,7 @@ namespace Section07
             //Item item = FindItem(delegate (Item i) {return i.ItemType == ItemType.Weapon;});
 
             //Lambda : 입력값 => 반환값 
-            //Item item = FindItem((Item i) => { return i.ItemType == ItemType.Weapon; });
+            Item item = FindItem((Item i) => { return i.ItemType == ItemType.Weapon; });
 
             //ItemSelector selector = new ItemSelector((Item i) => { return i.ItemType == ItemType.Weapon; });
             //Item item = FindItem(selector);
@@ -75,7 +75,7 @@ namespace Section07
             //Func<Item, bool> selector = (Item i) => { return i.ItemType == ItemType.Weapon; };
             //Item item = FindItem(selector);
 
-            Item item = FindItem((Item i) => { return i.ItemType == ItemType.Weapon; });
+            
 
             // delegate를 직접 선언하지 않아도 , 이미 만들어진 애들이 존재한다.
             // -> 반환 타입이 있을 경우 Func

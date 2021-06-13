@@ -1,21 +1,9 @@
 ﻿<Properties StartupConfiguration="{E633BCA5-9699-4ADF-B6DA-41748404914C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Section07/Lambda.cs">
-    <Files>
-      <File FileName="Section07/Delegate.cs" Line="46" Column="2" />
-      <File FileName="Section07_Event/Program.cs" Line="14" Column="1" />
-      <File FileName="Section07_Event/InputManager.cs" Line="15" Column="29" />
-      <File FileName="Section07/Lambda.cs" Line="4" Column="14" />
-      <File FileName="Section07/Property.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CSharp_Study" expanded="True">
-            <Node name="Section07" expanded="True">
-              <Node name="Lambda.cs" selected="True" />
-            </Node>
-            <Node name="Section07_Event" expanded="True" />
-          </Node>
+          <Node name="CSharp_Study" expanded="True" />
         </State>
       </Pad>
       <Pad Id="ClassPad">

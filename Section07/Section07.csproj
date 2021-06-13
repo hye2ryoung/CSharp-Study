@@ -38,6 +38,9 @@
     <Compile Include="Property.cs" />
     <Compile Include="Delegate.cs" />
     <Compile Include="Lambda.cs" />
+    <Compile Include="Exceptions.cs" />
+    <Compile Include="Reflection.cs" />
+    <Compile Include="Nullable.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
